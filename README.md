@@ -10,7 +10,7 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamishDrogemuller&show_icons=true&theme=onedark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamishDrogemuller&show_icons=true&theme=aura_dark&count_private=true)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamishDrogemuller&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
