@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: HCStrix@protonmail.com
 - ⚡ Fun fact: I like birds and history which pretty much sums me up
 -->
+ 
