@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything 
 - 💬 Ask me about anything you desire to
 - 📫 How to reach me: HCStrix@protonmail.com
-- ⚡ Fun fact: I like birds and history which pretty much sums me up
+- ⚡ Fun fact: I like birds and classical history which pretty much sums me up
 
 <!--
 **HamishDrogemuller/HamishDrogemuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
