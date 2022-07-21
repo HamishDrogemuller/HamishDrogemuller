@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like birds and classical history which pretty much sums me up
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHamishDrogemuller=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamishDrogemuller)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
