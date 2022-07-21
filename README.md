@@ -7,6 +7,10 @@
 - 📫 How to reach me: HCStrix@protonmail.com
 - ⚡ Fun fact: I like birds and classical history which pretty much sums me up
 
+
+[![Hamish's GitHub stats](https://github-readme-stats.vercel.app/apiHamishDrogemuller=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **HamishDrogemuller/HamishDrogemuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
