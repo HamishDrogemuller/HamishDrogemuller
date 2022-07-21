@@ -6,9 +6,9 @@
 - 💬 Ask me about anything you desire to
 - 📫 How to reach me: HCStrix@protonmail.com
 - ⚡ Fun fact: I like birds and classical history which pretty much sums me up
-- <br>
-- <br>
-- 
+<br>
+<br>
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamishDrogemuller&show_icons=true&theme=tokyonight&count_private=true)
