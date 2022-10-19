@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my Bachelors in Information Technology
 - 🌱 I’m currently learning Python, Web Application Development and Software Testing
 - 👯 I’m looking to collaborate on anything 
-- ⚡ Fun fact: I like birds and classical history which pretty much sums me up
 <br>
 <br>
 <br>
