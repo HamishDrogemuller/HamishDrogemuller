@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Software Developer
-- 🌱 I’m currently learning Python, Web Application Development and Software Testing
+- 🌱 I’m currently learning Python, Power Platform Development and Data Foundations
 - 👯 I’m looking to collaborate on anything 
 <br>
 <br>
